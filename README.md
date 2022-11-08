@@ -5,7 +5,7 @@
   - Programming Competitions
   - Game Development
   - VEX 5 Robotics
-- 🤖 Ready for preparing USACO and CCC
+- 🤖 Preparing for USACO and CCC
 - 💪 The CCO member in the future
   - [Austin Jiang](https://codeforces.com/profile/Austin_Jiang) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
