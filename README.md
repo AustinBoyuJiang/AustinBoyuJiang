@@ -1,6 +1,6 @@
 # Hi, this is Austin Jiang 👋
 
-- 😈WVSS Grade 10 student
+- 😈 WVSS Grade 10 student
 - 🔭 I’m currently participating in:
   - Programming Competitions
   - Game Development
