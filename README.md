@@ -1,4 +1,4 @@
-### Hi, this is Austin Jiang 👋
+# Hi, this is Austin Jiang 👋
 
 - 😈WVSS Grade 10 student
 - 🔭 I’m currently participating in:
@@ -12,12 +12,10 @@
 - 👾 The leader of WVSS Game Development Club
 - 👻 Fun fact: Genshin Impact is the best game in the world ever!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBoyuJiang&layout=compact&langs_count=6&theme=tokyonight" style="width:35%"/>
-</div>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBoyuJiang&layout=compact&langs_count=6&theme=tokyonight" style="width:35%"/>
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400"/>
-</div>
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400"/>
