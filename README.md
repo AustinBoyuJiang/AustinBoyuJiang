@@ -10,6 +10,7 @@
   - [Austin Jiang](https://codeforces.com/profile/Austin_Jiang) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
 - 👾 The founder and leader of WVSS Game Development Club
+- 🥸 Areas of Interest: AI, Metaverse, Brain Interface
 - 👻 Fun fact: Genshin Impact is the best game in the world ever!
 
 <br>
