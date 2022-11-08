@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBoyuJiang&layout=compact&langs_count=6&theme=tokyonight" style="width:35%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBoyuJiang&layout=compact&langs_count=6&theme=tokyonight" style="width:40%"/>
 
 <br>
 
