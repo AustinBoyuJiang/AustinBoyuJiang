@@ -1,20 +1,23 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+### Hi, this is Austin Jiang 👋
+
+- 😈WVSS Grade 10 student
+- 🔭 I’m currently participating in:
+  - Programming Competitions
+  - Game Development
+  - VEX 5 Robotics
+- 🤖 Ready for preparing USACO and CCC
+- 💪 The CCO member in the future
+  - [Austin Jiang](https://codeforces.com/profile/Austin_Jiang) on Codeforces
+  - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
+- 👾 The leader of WVSS Game Development Club
+- 👻 Fun fact: Genshin Impact is the best game in the world ever!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBoyuJiang&layout=compact&langs_count=6&theme=tokyonight" style="width:35%"/>
 </div>
 
-### Hi there 👋
+<br>
 
-<!--
-**AustinBoyuJiang/AustinBoyuJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400"/>
+</div>
