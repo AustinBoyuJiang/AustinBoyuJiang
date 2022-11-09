@@ -5,10 +5,11 @@
   - Programming Competitions
   - Game Development
   - VEX 5 Robotics
-- 🤖 Preparing for USACO and CCC
+- 🏅 Preparing for USACO and CCC
 - 💪 The CCO member in the future
   - [Austin Jiang](https://codeforces.com/profile/Austin_Jiang) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
+- 🤖 VEX Robotics World Championship 2022 Qualifier
 - 👾 The founder and leader of [WVSS Game Development Club](https://github.com/Game-Development-Club-WVSS)
 - 🥸 Areas of Interest: AI, Metaverse, Brain Interface
 - 👻 Fun fact: Genshin Impact is the best game in the world ever!
