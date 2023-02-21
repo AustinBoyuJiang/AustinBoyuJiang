@@ -1,4 +1,4 @@
-# Hi, this is Austin Jiang 👋
+# Hi, this is AJ Coder's profile 👋
 
 - 😈 WVSS Grade 10 student
 - 🔭 I’m currently participating in:
