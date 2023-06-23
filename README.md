@@ -1,17 +1,18 @@
 # Hi, this is AJ Coder's profile 👋
 
-- 😈 WVSS Grade 10 student
+- 😈 WVSS Grade 11 IB Diploma student
 - 🔭 I’m currently participating in:
-  - Programming Competitions
-  - Game Development
-  - VEX 5 Robotics
-- 🏅 Preparing for USACO and CCC
-- 💪 The CCO member in the future
+  - Competitive Programming
+  - Mathematical Competitions
+  - Machine Learning
+  - Development of Software, Web, and Games
+- 🏅 Primarily preparing for USACO and CCC
+- 💪 The IOI medalist in the future
   - [Austin Jiang](https://codeforces.com/profile/Austin_Jiang) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
-- 🤖 VEX Robotics World Championship 2022 Qualifier
+- 🤖 VEX Robotics World Championship 2022 qualifier
 - 👾 The founder and leader of [WVSS Game Development Club](https://github.com/Game-Development-Club-WVSS)
-- 🥸 Areas of Interest: AI, Metaverse, Brain Interface
+- 🥸 Areas of Interest: artificial intelligence, metaverse, Brain interface
 - 👻 Fun fact: Genshin Impact is the best game in the world ever!
 
 <br>
