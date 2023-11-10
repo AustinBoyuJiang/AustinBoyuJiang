@@ -11,9 +11,6 @@
   - [Austin Jiang](https://codeforces.com/profile/Austin_Jiang) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
 - 🤖 VEX Robotics World Championship 2022 qualifier
-- 👾 The founder and leader of [WVSS Game Development Club](https://github.com/Game-Development-Club-WVSS)
-- 🤡 The founder and leader of the Computer Science Club in WVSS
-- 😶‍🌫️ The leader of the Math Club in WVSS
 - 🥸 Areas of Interest: artificial intelligence, metaverse, Brain interface
 - 👻 Fun fact: Anyone who tells you to take an IB program is a bad person
 
@@ -34,9 +31,6 @@
 ![LISP](https://img.shields.io/badge/-LISP-3F6D91?style=flat-square&logo=lisp)
 
 <br>
-
-### Fancy Elements:
-
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=AustinBoyuJiang&show_icons=true&theme=tokyonight" style="width:50%"/>
 
@@ -45,13 +39,6 @@
 
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinBoyuJiang&theme=tokyonight" style="width:50%"/>
-
-<!-- GitHub Activity Graph -->
-![Austin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AustinBoyuJiang&theme=xcode)
-
-<!-- Social Icons -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-boyu-jiang/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AustinBoyuJiang)
 
 <br>
 
