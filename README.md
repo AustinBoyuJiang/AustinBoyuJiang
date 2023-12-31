@@ -11,8 +11,7 @@
 - 💪 The IOI medalist in the future
   - [ajCoder](https://codeforces.com/profile/ajCoder) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) (Problem Setter) on DMOJ
-- 🤖 VEX Robotics World Championship 2022 qualifier
-
+ 
 <br>
 
 ### Languages and Tools:
