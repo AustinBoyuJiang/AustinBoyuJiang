@@ -1,18 +1,17 @@
 # Hi, this is AJ Coder's profile 👋
 
 - 😈 WVSS Grade 11 IB Diploma student
-- 🔭 I’m currently participating in:
+- 🔭 I’m currently into:
   - Competitive Programming
-  - Mathematical Competitions
+  - Computer Vision
+  - Database System
+  - Programming Language Design
   - Machine Learning
-  - Development of Software, Web, and Games
 - 🏅 Primarily preparing for USACO and CCC
 - 💪 The IOI medalist in the future
-  - [Austin Jiang](https://codeforces.com/profile/Austin_Jiang) on Codeforces
+  - [Austin Jiang](https://codeforces.com/profile/ajCoder) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
 - 🤖 VEX Robotics World Championship 2022 qualifier
-- 🥸 Areas of Interest: artificial intelligence, metaverse, Brain interface
-- 👻 Fun fact: Anyone who tells you to take an IB program is a bad person
 
 <br>
 
