@@ -1,6 +1,6 @@
 # Hi, this is AJ Coder's profile 👋
 
-- 😈 WVSS Grade 11 IB Diploma student
+- 😈 Gr 11 IB Diploma student @WVSS
 - 🔭 I’m currently into:
   - Competitive Programming
   - Computer Vision
