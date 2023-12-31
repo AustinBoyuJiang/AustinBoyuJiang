@@ -9,7 +9,7 @@
   - Machine Learning
 - 🏅 Primarily preparing for USACO and CCC
 - 💪 The IOI medalist in the future
-  - [Austin Jiang](https://codeforces.com/profile/ajCoder) on Codeforces
+  - [ajCoder](https://codeforces.com/profile/ajCoder) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
 - 🤖 VEX Robotics World Championship 2022 qualifier
 
