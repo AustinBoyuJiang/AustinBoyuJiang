@@ -3,11 +3,9 @@
 - 😈 Gr 11 IB Diploma student @WVSS
 - 🔭 I’m currently into:
   - Competitive Programming
-  - Computer Vision
   - Database System
-  - Programming Language Design
   - Machine Learning
-- 🏅 Primarily preparing for USACO and CCC
+- 🏅 Primarily preparing for the upcoming Canadian Computing Olympiad
 - 💪 The IOI medalist in the future
   - [ajCoder](https://codeforces.com/profile/ajCoder) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) (Problem Setter) on DMOJ
