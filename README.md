@@ -11,16 +11,17 @@
   - [AustinJiang](https://codeforces.com/profile/ajCoder) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
 - 🦖Journey
-  - USACO Gold (Feb 2022)
-  - VEX Robotics World Championship Qualification (Apr 2022)
+  - USACO gold (Feb 2022)
+  - VEX Robotics worlds qualified (Apr 2022)
   - First job (Oct 2022)
-  - USACO Platinum (Jan 2024)
-  - [The first contest I created](https://dmoj.ca/contest/hhpc1) (Feb 2024)
-  - CCC Group 1, 10th Place (Feb 2024)
-  - CALICO Gold Brick, 5th Place (Apr 2024)
-  - ACSL Gold Medal (May 2024)
-  - CCO Silver Medal, 7th Place (May 2024)
-  - [First Publication](https://community.wolfram.com/groups/-/m/t/3216997) (Jul 2024)
+  - ACSL finals silver medal, 9th place (May 2023)
+  - USACO platinum (Jan 2024)
+  - [First contest created by me](https://dmoj.ca/contest/hhpc1) (Feb 2024)
+  - CCC group 1, 10th place (Feb 2024)
+  - CALICO gold brick, 5th place (Apr 2024)
+  - ACSL finals gold medal, 9th place (May 2024)
+  - CCO silver medal, 7th place (May 2024)
+  - [First publication](https://community.wolfram.com/groups/-/m/t/3216997) (Jul 2024)
   - First internship (Aug 2024)
  
 <br>
