@@ -19,7 +19,7 @@
   - CCC Group 1, 10th Place (Feb 2024)
   - CALICO Gold Brick, 5th Place (Apr 2024)
   - ACSL Gold Medal (May 2024)
-  - CCO Silver Medal, 9th Place (May 2024)
+  - CCO Silver Medal, 7th Place (May 2024)
   - [First Publication](https://community.wolfram.com/groups/-/m/t/3216997) (Jul 2024)
   - First internship (Aug 2024)
  
