@@ -1,4 +1,4 @@
-# Hi, this is Austin's profile 👋
+ # Hi, this is Austin's profile 👋
 
 - 😈 Senior IB Diploma student at West Vancouver Secondary School
 - 🔥 I’m currently into:
@@ -11,17 +11,17 @@
   - [AustinJiang](https://codeforces.com/profile/ajCoder) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
 - 🦖Journey
-  - VEX Robotics World Championship Qualification (April 2022)
-  - First job (October 2022)
-  - ACSL Silver Medal (May 2023)
+  - USACO Gold (Feb 2022)
+  - VEX Robotics World Championship Qualification (Apr 2022)
+  - First job (Oct 2022)
   - USACO Platinum (Jan 2024)
-  - [The first contest I created](https://dmoj.ca/contest/hhpc1) (February 2024)
-  - CCC Group 1, 10th place (February 2024)
-  - CALICO Gold Brick (April 2024)
+  - [The first contest I created](https://dmoj.ca/contest/hhpc1) (Feb 2024)
+  - CCC Group 1, 10th place (Feb 2024)
+  - CALICO Gold Brick (Apr 2024)
   - ACSL Gold Medal (May 2024)
   - CCO Silver Medal, 9th place (May 2024)
-  - [First Publication](https://community.wolfram.com/groups/-/m/t/3216997) (July 2024)
-  - First internship (August 2024)
+  - [First Publication](https://community.wolfram.com/groups/-/m/t/3216997) (Jul 2024)
+  - First internship (Aug 2024)
  
 <br>
 
