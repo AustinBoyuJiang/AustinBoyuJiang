@@ -1,14 +1,23 @@
-# Hi, this is AJ Coder's profile 👋
+# Hi, this is Austin's profile 👋
 
-- 😈 Gr 11 IB Diploma student @WVSS
-- 🔭 I’m currently into:
+- 😈 Senior IB Diploma student at West Vancouver Secondary School
+- 🔥 I’m currently into:
   - Competitive Programming
-  - Database System
-  - Machine Learning
-- 🏅 Primarily preparing for the upcoming Canadian Computing Olympiad
-- 💪 The IOI medalist in the future
-  - [ajCoder](https://codeforces.com/profile/ajCoder) on Codeforces
-  - [AustinJiang](https://dmoj.ca/user/AustinJiang) (Problem Setter) on DMOJ
+  - Research at Wolfram
+- 🔭 Looking for chances of:
+  - Internship
+  - Research Opportunities
+- 🏅 My other accounts:
+  - [AustinJiang](https://codeforces.com/profile/ajCoder) on Codeforces
+  - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
+- Accomplishment
+  - USACO Platinum (Jan 2024)
+  - [First created contest](https://dmoj.ca/contest/hhpc1) (February 2024)
+  - CCC Group 1 (February 2024)
+  - CALICO Gold Brick (April 2024)
+  - ACSL Gold Medal (May 2024)
+  - CCO Silver Medal (May 2024)
+  - [First Publication](https://community.wolfram.com/groups/-/m/t/3216997) (July 2024)
  
 <br>
 
