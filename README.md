@@ -13,6 +13,7 @@
 - 🦖Journey
   - VEX Robotics World Championship Qualification (April 2022)
   - First job (October 2022)
+  - ACSL Silver Medal (May 2023)
   - USACO Platinum (Jan 2024)
   - [The first contest I created](https://dmoj.ca/contest/hhpc1) (February 2024)
   - CCC Group 1, 10th place (February 2024)
