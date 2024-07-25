@@ -8,8 +8,9 @@
   - Internship
   - Research Opportunities
 - 🦖 My other accounts:
-  - [AustinJiang](https://codeforces.com/profile/ajCoder) on Codeforces
-  - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
+  - [Codeforces](https://codeforces.com/profile/ajCoder)
+  - [Github](https://dmoj.ca/user/AustinJiang)
+  - [Wolfram Community](https://community.wolfram.com/web/austinjiangboyu)
  
 <br>
 
