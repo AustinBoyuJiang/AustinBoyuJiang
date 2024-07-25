@@ -7,21 +7,9 @@
 - 🔭 Looking for chances of:
   - Internship
   - Research Opportunities
-- 🏅 My other accounts:
+- 🦖 My other accounts:
   - [AustinJiang](https://codeforces.com/profile/ajCoder) on Codeforces
   - [AustinJiang](https://dmoj.ca/user/AustinJiang) on DMOJ
-- 🦖Journey
-  - USACO gold (Feb 2022)
-  - VEX Robotics worlds qualified (Apr 2022)
-  - First job (Oct 2022)
-  - ACSL finals silver medal, 9th place (May 2023)
-  - USACO platinum (Jan 2024)
-  - [First contest created by me](https://dmoj.ca/contest/hhpc1) (Feb 2024)
-  - CCC group 1, 10th place (Feb 2024)
-  - CALICO gold brick, 5th place (Apr 2024)
-  - ACSL finals gold medal, 9th place (May 2024)
-  - CCO silver medal, 7th place (May 2024)
-  - [First publication](https://community.wolfram.com/groups/-/m/t/3216997) (Jul 2024)
  
 <br>
 
