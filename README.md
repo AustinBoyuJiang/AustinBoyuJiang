@@ -22,7 +22,6 @@
   - ACSL finals gold medal, 9th place (May 2024)
   - CCO silver medal, 7th place (May 2024)
   - [First publication](https://community.wolfram.com/groups/-/m/t/3216997) (Jul 2024)
-  - First internship (Aug 2024)
  
 <br>
 
