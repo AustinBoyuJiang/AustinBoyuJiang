@@ -9,7 +9,7 @@
   - Research Opportunities
 - 🦖 My other accounts:
   - [Codeforces](https://codeforces.com/profile/ajCoder)
-  - [Github](https://dmoj.ca/user/AustinJiang)
+  - [DMOJ: Modern Online Judge](https://dmoj.ca/user/AustinJiang)
   - [Wolfram Community](https://community.wolfram.com/web/austinjiangboyu)
  
 ### Languages and Tools:
