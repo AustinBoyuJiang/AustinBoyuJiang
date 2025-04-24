@@ -1,12 +1,14 @@
  # Hi, this is Austin's profile 👋
 
-- 😈 Senior IB Diploma student at West Vancouver Secondary School
+- 😈 Incoming CS + math student @ CMU, Cambridge, or Waterloo
 - 🔥 I’m currently into:
   - Competitive Programming
-  - Research at Wolfram
+  - TCS Research at Wolfram
+  - Open Source Contribution
 - 🔭 Looking for chances of:
   - Internship
-  - Research Opportunities
+  - Open Source
+  - Research
 - 🦖 My other accounts:
   - [Codeforces](https://codeforces.com/profile/ajCoder)
   - [DMOJ: Modern Online Judge](https://dmoj.ca/user/AustinJiang)
