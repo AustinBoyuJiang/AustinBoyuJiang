@@ -1,6 +1,6 @@
  # Hi, this is Austin's profile 👋
 
-- 😈 Incoming CS + math student @ CMU, Cambridge, or Waterloo
+- 1A CS Student @ University of Waterloo
 - 🔥 I’m currently into:
   - Competitive Programming
   - TCS Research at Wolfram
