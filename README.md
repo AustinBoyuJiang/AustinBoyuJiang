@@ -75,13 +75,13 @@
 <ul>
 <li>
 <a href="https://www.linkedin.com/in/austin-boyu-jiang/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  AustinJiang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin:  austin-boyu-jiang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 
 <li>
 <a href="mailto:a68jiang@uwaterloo.ca" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  austinboyujiang-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/gmail:  austinjiang-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
 </ul>
