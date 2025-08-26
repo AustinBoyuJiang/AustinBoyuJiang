@@ -30,7 +30,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AustinBoyuJiang&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinBoyuJiang&layout=compact&langs_count=6&theme=tokyonight" width="40%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinBoyuJiang&theme=tokyonight" width="48%" />
-</p>
