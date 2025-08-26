@@ -75,7 +75,7 @@
 <ul>
 <li>
 <a href="https://www.linkedin.com/in/austin-boyu-jiang/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  austin-boyu-jiang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin:  austinjiang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 
