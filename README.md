@@ -68,24 +68,6 @@
 
 <br>
 
------
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-
-<ul>
-<li>
-<a href="https://www.linkedin.com/in/austin-boyu-jiang/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  austinjiang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</li>
-
-<li>
-<a href="mailto:a68jiang@uwaterloo.ca" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  austinjiang-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</li>
-</ul>
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
@@ -93,5 +75,8 @@
 <div align='center'>
 
 ## <b>Thanks for visiting! 🚀</b>
+
+<br>
+<br>
 
 </div>
