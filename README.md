@@ -75,8 +75,6 @@
 <div align='center'>
 
 ## <b>Thanks for visiting! 🚀</b>
-
-<br>
-<br>
+<br><br>
 
 </div>
