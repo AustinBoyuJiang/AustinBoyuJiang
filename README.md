@@ -12,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
 
-- 🎓 1A CS Student @ **University of Waterloo**  
+- 🎓 1B CS Student @ **University of Waterloo**  
 - 🔬 Currently:  
   - Research in **Theoretical CS & Systems** @ Wolfram Research  
   - Competitive Programming  
