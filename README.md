@@ -13,11 +13,11 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
 
 - 🎓 1B CS Student @ **University of Waterloo**  
-- 🔬 Currently:  
-  - Research in **Theoretical CS & Systems** @ Wolfram Research  
-  - Competitive Programming  
-  - Open Source Contribution  
-- 🌱 Interests: **AI Infrastructure · Distributed Systems · High-Performance Computing**  
+- 🔬 Currently:
+  - **Systems** Research @ Multicore Lab, University of Waterloo
+  - **Systems** Research @ Wolfram Research
+  - Competitive Programming
+- 🌱 Interests: **High-Performance Computing · AI Infrastructure · Distributed Systems**  
 - 🔭 Looking for opportunities in **Internship | Research | Open Source**
 
 <br><br>
