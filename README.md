@@ -12,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
 
-- 🎓 1B CS Student @ **University of Waterloo**  
+- 🎓 CS Student @ **University of Waterloo**  
 - 🔬 Currently:
   - **Systems** Research @ Multicore Lab, University of Waterloo
   - **Systems** Research @ Wolfram Research
