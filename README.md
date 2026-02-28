@@ -20,6 +20,8 @@
 - 🌱 Interests: **High-Performance Computing · AI Infrastructure · Distributed Systems**  
 - 🔭 Looking for opportunities in **Internship | Research | Open Source**
 
+![](https://komarev.com/ghpvc/?username=AustinBoyuJiang&color=blue)
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
