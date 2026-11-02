@@ -1,6 +1,6 @@
 # Austin Jiang
 
-**CS @ University of Waterloo · 2025 Generation Google Scholar**
+**CS @ University of Waterloo**
 
 [Website](https://austinjiang.com) · [LinkedIn](https://www.linkedin.com/in/austinboyujiang/) · [Résumé](https://austinboyujiang.github.io/Austin_Jiang_Resume/Austin_Jiang_Resume.pdf) · [Email](mailto:me@austinjiang.com)
 
@@ -8,7 +8,7 @@ I work on **high-performance computing and efficient AI**, from accelerating 3D 
 
 ## Now & next
 
-- **Research Intern @ Huawei Noah's Ark Lab** — efficient spatial foundation models.
+- **Research Intern @ Huawei Noah's Ark Lab** — efficient spatial foundation models, May 2026 to now.
 - **Incoming SWE Intern @ DeepInfra** — LLM inference acceleration, Jan–Apr 2027.
 - Previously at **Waterloo's Multicore Lab** and **Wolfram Research**, working on concurrent data structures and parallel cellular automata.
 
@@ -29,4 +29,3 @@ End-to-end video object replacement: Gemini for video understanding, SAM3 for pi
 
 I now help write the contests, too: [CCO 2026 · Day 1, Problem 3](https://dmoj.ca/problem/cco26p3).
 
-[Contest solutions ↗](https://github.com/AustinBoyuJiang/Competitive-Programming)
