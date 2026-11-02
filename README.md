@@ -1,82 +1,32 @@
-<h1 align="center"><b>Hi , I'm Austin Jiang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Austin Jiang
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CS+Student+@+University+of+Waterloo;Research+in+Theoretical+CS+%26+Systems;Competitive+Programmer;Open+Source+Contributor;AI+Infra+%7C+Distributed+Systems+%7C+HPC">
-  </a>
-</p>
+**CS @ University of Waterloo · 2025 Generation Google Scholar**
 
-<br>
+[Website](https://austinjiang.com) · [LinkedIn](https://www.linkedin.com/in/austinboyujiang/) · [Résumé](https://austinboyujiang.github.io/Austin_Jiang_Resume/Austin_Jiang_Resume.pdf) · [Email](mailto:me@austinjiang.com)
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About me**
+I work on **high-performance computing and efficient AI**, from accelerating 3D reconstruction to building concurrent data structures.
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+## Now & next
 
-- 🎓 CS Student @ **University of Waterloo**  
-- 🔬 Currently:
-  - **Systems** Research @ Multicore Lab, University of Waterloo
-  - **Systems** Research @ Wolfram Research
-  - Competitive Programming
-- 🌱 Interests: **High-Performance Computing · AI Infrastructure · Distributed Systems**  
-- 🔭 Looking for opportunities in **Internship | Research | Open Source**
+- **Research Intern @ Huawei Noah's Ark Lab** — efficient spatial foundation models.
+- **Incoming SWE Intern @ DeepInfra** — LLM inference acceleration, Jan–Apr 2027.
+- Previously at **Waterloo's Multicore Lab** and **Wolfram Research**, working on concurrent data structures and parallel cellular automata.
 
-**Views**
+## Selected work
 
-![Views](https://count.getloli.com/get/@AustinBoyuJiang?theme=rule_34)
+**[HonkPack](https://github.com/c4bae/hackmit2026)** · HackMIT 2026  
+Phone video → per-object 3D reconstruction → custom 3D bin packing. Built with SAM3, Depth Anything 3, and ShapeR.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+**[Rewrite](https://github.com/NoahCodes23/TreeHacks2026)** · TreeHacks 2026  
+Interactive, AI-generated worlds in VR. Scaled Hunyuan WorldPlay inference from **1 to 12 FPS** with tensor parallelism across **4× H200 GPUs**. [Demo & write-up ↗](https://devpost.com/software/rewrite-2snpat)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills</b>
+**[ADaptiv](https://github.com/Liamzhangg/ADaptiv)** · CMU NexHacks 2026  
+End-to-end video object replacement: Gemini for video understanding, SAM3 for pixel-level masking, and Wan2.1 for generation in ComfyUI. Optimized for a **3× speedup on an RTX 4090**. [Demo & write-up ↗](https://devpost.com/software/nexhacks-k016op)
 
-<p align="center">
+## From competitor to problem setter
 
-**Languages**  
-<br>
-![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+**2× CCO silver medalist · USACO Platinum**
 
-**Frameworks & Libraries**  
-<br>
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
+I now help write the contests, too: [CCO 2026 · Day 1, Problem 3](https://dmoj.ca/problem/cco26p3).
 
-**DevOps & Tools**  
-<br>
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
-</p>
-
-<br>
-
------
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/AustinBoyuJiang">
-  <img src="https://github-readme-stats.vercel.app/api?username=AustinBoyuJiang&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="45%" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AustinBoyuJiang&show_icons=true&locale=en&layout=compact&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="45%" height="185"/>
-</a>
-
-</div>
-
-<br>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
-
-<div align='center'>
-
-## <b>Thanks for visiting! 🚀</b>
-<br><br>
-
-</div>
+[Contest solutions ↗](https://github.com/AustinBoyuJiang/Competitive-Programming)
