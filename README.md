@@ -15,7 +15,7 @@ I work on **high-performance computing and efficient AI**, from accelerating 3D 
 ## Selected work
 
 **[HonkPack](https://github.com/c4bae/hackmit2026)** · HackMIT 2026  
-Phone video → per-object 3D reconstruction → custom 3D bin packing. Built with SAM3, Depth Anything 3, and ShapeR.
+Phone video → per-object 3D reconstruction → custom 3D bin packing. Built with SAM3, Depth Anything 3, and ShapeR. [Project page ↗](https://plume.hackmit.org/project/mwccd-ccvio-rnwtv-ovjkt)
 
 **[Rewrite](https://github.com/NoahCodes23/TreeHacks2026)** · TreeHacks 2026  
 Interactive, AI-generated worlds in VR. Scaled Hunyuan WorldPlay inference from **1 to 12 FPS** with tensor parallelism across **4× H200 GPUs**. [Demo & write-up ↗](https://devpost.com/software/rewrite-2snpat)
