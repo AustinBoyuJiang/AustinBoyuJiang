@@ -8,8 +8,8 @@ I work on **efficient AI** and cool **computer vision** projects, from accelerat
 
 ## Now & next
 
-- **Research Intern @ Huawei Noah's Ark Lab** — efficient spatial foundation models.
-- **Incoming SWE Intern @ DeepInfra** — LLM inference acceleration, Jan-Apr 2027.
+- **Research Intern @ Huawei Noah's Ark Lab** — world model research.
+- **Incoming SWE Intern @ DeepInfra** — inference and serving, Jan-Apr 2027.
 - Previously at **Waterloo's Multicore Lab** and **Wolfram Research**, working on concurrent data structures and parallel cellular automata.
 
 ## Selected work
