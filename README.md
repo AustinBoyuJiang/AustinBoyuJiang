@@ -4,7 +4,7 @@
 
 [Website](https://austinjiang.com) · [LinkedIn](https://www.linkedin.com/in/austinboyujiang/) · [Résumé](https://austinboyujiang.github.io/Austin_Jiang_Resume/Austin_Jiang_Resume.pdf) · [Email](mailto:me@austinjiang.com)
 
-I work on **efficient AI and cool computer vision**, from accelerating 3D reconstruction to building intelligent robotics systems.
+I work on **efficient AI** and cool **computer vision** projects, from accelerating 3D reconstruction to building intelligent robotics systems.
 
 ## Now & next
 
